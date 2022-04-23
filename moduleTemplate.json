@@ -12,7 +12,7 @@
     "nsfw":false,
     "baseURL": "https://mangaplus.shueisha.co.jp/manga_list/all",
     "moduleDeveloperSite": "test0146.w3spaces.com/index.html",
-    "UpdateSite": "#1",
+    "UpdateSite": "https://raw.githubusercontent.com/973-068-347/973-068-347.github.io/main/moduleTemplate.json",
     "preferedServer": "",
     "preferedDownloadServer": "",
     "blackListed": [
